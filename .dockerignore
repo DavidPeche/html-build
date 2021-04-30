@@ -1,6 +1,0 @@
-*
-!entities/out
-!quotes/out
-!*.pl
-!build.sh
-!lint.sh
